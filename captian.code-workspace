@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:\\captian"
+		},
+		{
+			"path": "personal_portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "personal_portfolio"
+	}
+}
